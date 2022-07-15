@@ -10,8 +10,8 @@ const NavBar = () => {
         <Navbar.brand href ="#home">Navbar</Navbar.brand>
         <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#home">Products</Nav.Link>
-            <Nav.Link href="#home">Community</Nav.Link>
+            <Nav.Link href="#products">Products</Nav.Link>
+            <Nav.Link href="#community">Community</Nav.Link>
         </Nav>
     </Container>
    </Navbar>
